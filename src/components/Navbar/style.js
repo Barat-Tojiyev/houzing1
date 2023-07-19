@@ -10,6 +10,8 @@ const Container=styled.div`
 const Main=styled.div`
 background: var(--colorPrimary);
 color: #fff;
+
+
 `
 const Wrapper =styled.div`
 padding: var(--padding);
@@ -18,6 +20,7 @@ justify-content: space-between;
 align-items: center;
 height: 64px;
 max-width: 1440px;
+margin: auto;
 `
 const Section=styled.div`
 display: flex;
