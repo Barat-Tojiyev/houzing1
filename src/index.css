@@ -17,3 +17,13 @@ body{
     /* padding */
     --padding:0 130px
 }
+.subTitle{
+  
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+}
